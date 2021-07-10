@@ -16,7 +16,6 @@ class CallUrl extends Extension {
 				label: 'URL to Call',
 				value: 'url-to-call',
 				icon: 'link',
-				mode: 'custom-value',
 				fontIcon: 'fas',
 				color: '#ff29df',
 				input: [
