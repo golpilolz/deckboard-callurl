@@ -1,6 +1,6 @@
 {
   "name": "deckboard-callurl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Call Url without open browser in Deckboard",
   "main": "index.js",
   "scripts": {
